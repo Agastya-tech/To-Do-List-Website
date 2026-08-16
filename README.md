@@ -2,7 +2,7 @@
 
 A simple, clean, and responsive To-Do List web application built using **HTML5, CSS3, and vanilla JavaScript** — no frameworks, no libraries, no build tools.
 
-This project was created as a training/internship project to demonstrate core front-end web development concepts such as DOM manipulation, event handling, and responsive design.
+This project was created as a training/internship project to demonstrate core front-end web development concepts , event handling, and responsive design.
 
 ---
 
