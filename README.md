@@ -43,15 +43,6 @@ todo-app/
 
 ---
 
-## 🚀 How to Run
-
-1. Download or clone this project folder.
-2. Make sure all three files (`index.html`, `style.css`, `script.js`) are in the **same folder**.
-3. Double-click `index.html` to open it in any web browser (Chrome, Firefox, Edge, etc.).
-4. No installation, server, or internet connection required — it runs entirely in the browser.
-
----
-
 ## 🖱️ How to Use
 
 1. Type a task into the input box.
